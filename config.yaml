@@ -1,0 +1,13 @@
+baseURL: 'https://olivetin.app/themes/'
+languageCode: 'en-us'
+title: 'OliveTin use case gallery'
+theme: "jwr"
+
+menu:
+  main:
+    - name: 'Gallery'
+      pageRef: 'http://olivetin.app/gallery/'
+      weight: 99
+
+    - name: 'Main OliveTin Website'
+      pageRef: 'http://olivetin.app'
